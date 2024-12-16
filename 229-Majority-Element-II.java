@@ -18,7 +18,7 @@ class Solution {
         //     }
         // }
         // return result;
-
+// made by poovarasan
      int numsSize = nums.length;
     Map<Integer, Integer> freq = new HashMap<>();
 
