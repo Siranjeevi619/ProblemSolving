@@ -14,26 +14,15 @@
  * }
  */
 class Solution {
+    static int findNode(TreeNode node){
+        if(node == null){
+            return 0;
+        }
+        int left = findNode(node.left);
+        int right = findNode(node.right);
+        return left+right +1;
+    }
     public int countNodes(TreeNode root) {
-        Queue <TreeNode> queue = new LinkedList<>();
-        int count = 0;
-        queue.offer(root);
-        if(root== null){
-            return count;
-        }
-        while(!queue.isEmpty()){
-            int size = queue.size();
-            for(int i = 0; i < size ; i+=1){
-                TreeNode currentNode = queue.poll();
-                count +=1;
-                if(currentNode.left != null){
-                    queue.offer(currentNode.left);
-                }
-                if(currentNode.right != null){
-                    queue.offer(currentNode.right);
-                }
-            }
-        }
-        return count;
+        return findNode(root);        
     }
 }
