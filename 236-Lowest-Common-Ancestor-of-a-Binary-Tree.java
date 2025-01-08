@@ -8,43 +8,23 @@
  * }
  */
 class Solution {
-    static boolean nodeToRoot(TreeNode node, TreeNode target, List<TreeNode> result){
-        if(node == null){
-            return false;
+    static TreeNode findAncestor(TreeNode node ,TreeNode p , TreeNode q){
+        if(node == null || node == p || node == q){
+            return node;
         }
-
-        if(node.val == target.val){
-            result.add(node);
-            return true;
+        TreeNode left  = findAncestor(node.left, p, q);
+        TreeNode right = findAncestor(node.right, p ,q);
+        if(left == null ){
+            return right;
         }
-
-        boolean ls = nodeToRoot(node.left, target, result);
-        if(ls){
-            result.add(node);
-            return true;
+        else if(right == null){
+            return left;
         }
-
-        boolean rs = nodeToRoot(node.right, target, result); 
-        if(rs){
-            result.add(node);
-            return true;
+        else{
+            return node;
         }
-        return false;
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        List <TreeNode> pAL = new ArrayList<>();
-        List <TreeNode> qAL = new ArrayList<>();
-
-        nodeToRoot(root, p, pAL);
-        nodeToRoot(root, q, qAL);
-        int pSize = pAL.size() - 1;
-        int qSize = qAL.size() - 1;
-
-          while (pSize >= 0 && qSize >= 0 && pAL.get(pSize) == qAL.get(qSize)) {
-            pSize--;
-            qSize--;
-        }
-
-        return pAL.get(pSize + 1 );
+        return findAncestor(root, p, q);
     }
 }
