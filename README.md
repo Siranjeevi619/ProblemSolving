@@ -17,4 +17,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0584-find-customer-referee](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1258-article-views-i) |
+| [1827-invalid-tweets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
