@@ -47,4 +47,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
