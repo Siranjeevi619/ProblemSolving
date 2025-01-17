@@ -20,4 +20,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1258-article-views-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1827-invalid-tweets) |
+## Array
+|  |
+| ------- |
+| [2792-neighboring-bitwise-xor](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2792-neighboring-bitwise-xor) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2792-neighboring-bitwise-xor](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2792-neighboring-bitwise-xor) |
 <!---LeetCode Topics End-->
