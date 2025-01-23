@@ -63,4 +63,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
