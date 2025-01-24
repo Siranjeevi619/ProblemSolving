@@ -48,20 +48,20 @@ public class Main {
 // User function Template for Java
 // import java.util.*;
 class Solution {
-    static int energyCount(int [] stones, int index, int [] dp){
-        if(index == 0){
-            return 0;
-        }
-        if(dp[index] != -1){
-            return dp[index];
-        }
-        int left = energyCount(stones,index - 1,dp ) + Math.abs(stones[index] - stones[index - 1] );
-        int right = Integer.MAX_VALUE;
-        if(index > 1){
-            right = energyCount(stones, index-2,dp  ) + Math.abs(stones[index] - stones[index- 2]);
-        }
-        return dp[index] =  Math.min(left, right);
-    }
+    // static int energyCount(int [] stones, int index, int [] dp){
+    //     if(index == 0){
+    //         return 0;
+    //     }
+    //     if(dp[index] != -1){
+    //         return dp[index];
+    //     }
+    //     int left =
+    //     int right = Integer.MAX_VALUE;
+    //     if(index > 1){
+    //         right = 
+    //     }
+    //     return dp[index] =  Math.min(left, right);
+    // }
     int minCost(int[] height) {
         // code here
         int n =  height.length;
@@ -69,7 +69,20 @@ class Solution {
         for(int i = 0 ; i < n+1 ; i+=1){
             dp[i] = -1;
         }
-        return energyCount(height, n-1,dp);
+        
+        dp[0] = 0;
+        
+        // return energyCount(height, n-1,dp);
+        for(int i = 1 ; i <n ; i+=1){
+            int fs = dp[i -1 ]+ Math.abs(height[i] - height[i - 1]);
+            int ss = Integer.MAX_VALUE;
+            if(i > 1){
+                ss = dp[i - 2] + Math.abs(height[i] - height[i- 2]);
+            }
+            
+            dp[i] = Math.min(fs,ss);
+        }
+        return dp[n-1];
     }
 }
 
