@@ -15,8 +15,8 @@ class Solution {
        
         int  up = findPath(path, i-1, j, dp);
         int left = findPath(path, i, j-1, dp);
-        // dp[i][j] ;
-        return dp[i][j] =  up+left;
+        dp[i][j] =  up+left;
+        return dp[i][j] ;
     }
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int rowSize = obstacleGrid.length;
