@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0041-first-missing-positive) |
 | [0733-flood-fill](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0733-flood-fill) |
 | [2792-neighboring-bitwise-xor](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2792-neighboring-bitwise-xor) |
 ## Bit Manipulation
@@ -75,4 +76,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0086-partition-list) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
