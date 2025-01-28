@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0525-contiguous-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0733-flood-fill](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0733-flood-fill) |
 | [0932-monotonic-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0932-monotonic-array) |
+| [0967-minimum-falling-path-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 | [2792-neighboring-bitwise-xor](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2792-neighboring-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -63,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0733-flood-fill](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0733-flood-fill) |
+| [0967-minimum-falling-path-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 ## Tree
 |  |
 | ------- |
@@ -96,6 +98,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0062-unique-paths](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
+| [0967-minimum-falling-path-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
