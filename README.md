@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
 | [0525-contiguous-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0733-flood-fill](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0733-flood-fill) |
+| [0932-monotonic-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0932-monotonic-array) |
 | [2792-neighboring-bitwise-xor](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2792-neighboring-bitwise-xor) |
 ## Bit Manipulation
 |  |
