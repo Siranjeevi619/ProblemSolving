@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0733-flood-fill](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0733-flood-fill) |
 | [0932-monotonic-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0932-monotonic-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
+| [1364-tuple-with-same-product](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1364-tuple-with-same-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2792-neighboring-bitwise-xor](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2792-neighboring-bitwise-xor) |
@@ -93,6 +94,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0041-first-missing-positive](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0041-first-missing-positive) |
 | [0525-contiguous-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
+| [1364-tuple-with-same-product](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
@@ -122,5 +124,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 <!---LeetCode Topics End-->
