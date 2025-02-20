@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1477-product-of-the-last-k-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2792-neighboring-bitwise-xor](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2792-neighboring-bitwise-xor) |
@@ -103,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -138,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3447-clear-digits) |
 ## Counting
 |  |
@@ -185,5 +188,6 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
