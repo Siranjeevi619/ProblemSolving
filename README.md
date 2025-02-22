@@ -57,6 +57,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0733-flood-fill) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -85,12 +86,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Linked List
 |  |
@@ -144,6 +147,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0179-largest-number) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2021-remove-all-occurrences-of-a-substring) |
