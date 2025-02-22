@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0041-first-missing-positive](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
+| [0179-largest-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0179-largest-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
 | [0525-contiguous-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0179-largest-number) |
 | [1160-letter-tile-possibilities](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -185,6 +187,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0179-largest-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
 |  |
@@ -196,4 +199,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
