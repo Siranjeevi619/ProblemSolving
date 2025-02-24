@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0967-minimum-falling-path-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 | [1364-tuple-with-same-product](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1477-product-of-the-last-k-numbers) |
+| [1635-number-of-good-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -113,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1160-letter-tile-possibilities](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1635-number-of-good-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2434-design-a-number-container-system) |
@@ -124,6 +126,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0062-unique-paths](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0062-unique-paths) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1477-product-of-the-last-k-numbers) |
+| [1635-number-of-good-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
@@ -159,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1364-tuple-with-same-product) |
+| [1635-number-of-good-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1635-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2448-count-number-of-bad-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
