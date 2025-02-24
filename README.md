@@ -37,6 +37,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0967-minimum-falling-path-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 | [1364-tuple-with-same-product](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1477-product-of-the-last-k-numbers) |
+| [1656-count-good-triplets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2107-find-unique-binary-string) |
@@ -207,4 +208,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0179-largest-number) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
