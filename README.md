@@ -43,6 +43,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2107-find-unique-binary-string) |
+| [2350-find-closest-number-to-zero](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2792-neighboring-bitwise-xor](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2792-neighboring-bitwise-xor) |
