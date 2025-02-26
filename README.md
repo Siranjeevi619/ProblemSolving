@@ -107,6 +107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0086-partition-list) |
+| [0392-is-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0062-unique-paths](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
+| [0392-is-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -155,6 +157,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0179-largest-number) |
+| [0392-is-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1160-letter-tile-possibilities) |
 | [1894-merge-strings-alternately](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1894-merge-strings-alternately) |
