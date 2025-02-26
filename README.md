@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1477-product-of-the-last-k-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1656-count-good-triplets) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2107-find-unique-binary-string) |
@@ -137,6 +138,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0967-minimum-falling-path-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Combinatorics
 |  |
 | ------- |
