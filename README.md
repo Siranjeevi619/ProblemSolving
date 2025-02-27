@@ -129,6 +129,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1477-product-of-the-last-k-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1635-number-of-good-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2448-count-number-of-bad-pairs) |
@@ -138,6 +139,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0062-unique-paths](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0416-partition-equal-subset-sum) |
@@ -224,4 +226,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1656-count-good-triplets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
