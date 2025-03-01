@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
 | [0179-largest-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0179-largest-number) |
@@ -211,6 +212,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0179-largest-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Data Stream
