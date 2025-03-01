@@ -46,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2350-find-closest-number-to-zero](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
 | [2792-neighboring-bitwise-xor](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2792-neighboring-bitwise-xor) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3429-special-array-i) |
@@ -109,6 +110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0086-partition-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0086-partition-list) |
 | [0392-is-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1894-merge-strings-alternately) |
+| [2551-apply-operations-to-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3447-clear-digits) |
