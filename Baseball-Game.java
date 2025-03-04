@@ -3,10 +3,12 @@ class Solution {
       Stack<Integer> st = new Stack<>();
       for(String s : operations){
         if(s.equals(\+\)){
-            int top = st.pop();
-                int newTop = top + st.peek();
-                st.push(top);
-                st.push(newTop);
+            int first = st.pop();
+            int second = st.pop();
+            int add = first + second;
+            st.push(second);
+            st.push(first);
+            st.push(add);
         }
         else if(s.equals(\D\)){
             st.push(st.peek() * 2);
