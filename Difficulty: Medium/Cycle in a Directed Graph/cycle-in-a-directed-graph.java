@@ -33,40 +33,35 @@ class DriverClass {
 /*Complete the function below*/
 
 class Solution {
-    static boolean dfs(int index, ArrayList<ArrayList<Integer>> adj, boolean[] visited, boolean[] pathVisited) {
-    visited[index] = true;
-    pathVisited[index] = true;
-
-    for (int i : adj.get(index)) {
-        if (!visited[i]) {
-            if (dfs(i, adj, visited, pathVisited)) {
-                return true;
-            }
-        }
-        else if (pathVisited[i]) {
-            return true;
-        }
+    // Function to detect cycle in a directed graph.
+    public boolean isCyclic(ArrayList<ArrayList<Integer>> adj) {
+        // code here
+        int n = adj.size();
+            Queue<Integer> queue = new LinkedList<>();
+    int [] indegree = new int[n];
+    for(int i = 0 ; i < n ; i+=1){
+      for(int it : adj.get(i)){
+        indegree[it]++;
+      }
     }
+    for(int i = 0 ; i < n ; i+=1){
+      if(indegree[i] == 0){
+        queue.offer(i);
+      }
 
-    pathVisited[index] = false;
-    return false;
-}
-
-public boolean isCyclic(ArrayList<ArrayList<Integer>> adj) {
-    int v = adj.size();
-    boolean[] visited = new boolean[v];
-    boolean[] pathVisited = new boolean[v];
-
-    // Iterate through all nodes in the graph
-    for (int i = 0; i < v; i++) {
-        // If the node is not visited yet
-        if (!visited[i]) {
-            if (dfs(i, adj, visited, pathVisited)) {
-                return true; // Cycle found
-            }
-        }
     }
-    return false; 
-}
+    int count = 0;
 
+    while(!queue.isEmpty()){
+      int node = queue.poll();
+      count +=1;
+      for(int i : adj.get(node)){
+        indegree[i]--;
+        if(indegree[i] == 0){
+          queue.offer(i);
+        }
+      }
+    }
+    return !(count == n);
+    }
 }
