@@ -7,17 +7,17 @@ class Solution {
              if(nums[right] == 0){
                 zeroCount+=1;
             }
-            while(zeroCount > k){
+            if(zeroCount > k){
                 if(nums[left] ==0){
                     zeroCount-=1;
-                 
                 }
                 left+=1;
             }
             if(zeroCount <= k){
                 len = Math.max(len, right - left+1);
-                right+=1;
+              
             }
+              right+=1;
         }
         return len;
     }
