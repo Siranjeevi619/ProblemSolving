@@ -1,15 +1,13 @@
 class Solution {
-    public int maxSubArray(int[] a) {
-        int size = a.length;
-        int max_so_far = Integer.MIN_VALUE, max_ending_here = 0;
-        for (int i = 0; i < size; i++) {
-                  if (max_ending_here < 0)
-                max_ending_here = 0;
-            max_ending_here += a[i];
-            max_so_far = Math.max(max_so_far, max_ending_here);
-      
+    public int maxSubArray(int[] nums) {
+        int currentSum = nums[0];
+        int maxSum = nums[0];
+        
+        for (int i = 1; i < nums.length; i++) {
+            currentSum = Math.max(nums[i], currentSum + nums[i]);
+            maxSum = Math.max(maxSum, currentSum);
         }
-        return max_so_far;
-        // used kadane algorithm 
+        
+        return maxSum;
     }
 }
