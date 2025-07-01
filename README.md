@@ -25,6 +25,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3210-count-beautiful-substrings-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3210-count-beautiful-substrings-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3617-find-the-original-typed-string-i) |
 ## Enumeration
 |  |
 | ------- |
