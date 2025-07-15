@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3210-count-beautiful-substrings-i) |
+| [3396-valid-word](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3617-find-the-original-typed-string-i) |
 ## Enumeration
 |  |
