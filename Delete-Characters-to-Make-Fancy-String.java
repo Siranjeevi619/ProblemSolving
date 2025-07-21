@@ -1,17 +1,24 @@
 class Solution {
     public String makeFancyString(String s) {
-        StringBuilder result = new StringBuilder();
-        int count = 1; 
+        Stack<Character> stack = new Stack<>();
+        int count = 0;
+
         for (int i = 0; i < s.length(); i++) {
-            if (i > 0 && s.charAt(i) == s.charAt(i - 1)) {
+            char ch = s.charAt(i);
+
+            if (!stack.isEmpty() && stack.peek() == ch) {
                 count++;
             } else {
                 count = 1;
             }
 
             if (count <= 2) {
-                result.append(s.charAt(i));
+                stack.push(ch);
             }
+        }
+        StringBuilder result = new StringBuilder();
+        for (char c : stack) {
+            result.append(c);
         }
 
         return result.toString();
