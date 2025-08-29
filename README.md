@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
@@ -28,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0044-wildcard-matching) |
+| [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
@@ -79,6 +81,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
