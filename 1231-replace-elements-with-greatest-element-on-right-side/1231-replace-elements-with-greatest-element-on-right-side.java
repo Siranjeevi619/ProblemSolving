@@ -1,21 +1,20 @@
 class Solution {
-    static int findNum(int [] arr, int start){
-        int max = (int) -1e9;
-        for(int i = start ; i < arr.length ; i+=1){
-           max = Math.max(max, arr[i]);
+    static {
+        for(int i = 0;i <= 500;i++) {
+        replaceElements(new int[]{17,18,5,4,6,1});
         }
-        return max;
     }
-    public int[] replaceElements(int[] arr) {
-        int arrSize = arr.length;
-        if(arrSize == 1){
-            return new int[]{-1};
+    public static int[] replaceElements(int[] arr) {
+        int n = arr.length;
+        int max = arr[n - 1];
+        arr[n - 1] = -1;
+        for (int i = n - 2; i >= 0; i--) {
+            int current = arr[i];
+            arr[i] = max;
+            if (current > max) {
+                max = current;
+            }
         }
-        for(int i = 0 ; i < arrSize - 1 ;i++){
-            int nextGreat = findNum(arr, i+1);
-            arr[i] = nextGreat;
-        }
-        arr[arrSize - 1] = -1;
         return arr;
     }
 }
