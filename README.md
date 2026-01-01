@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -127,6 +128,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0044-wildcard-matching](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0044-wildcard-matching) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 ## Trie
 |  |
