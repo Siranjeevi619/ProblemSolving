@@ -66,6 +66,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
@@ -80,12 +81,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0165-compare-version-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2497-maximum-matching-of-players-with-trainers) |
