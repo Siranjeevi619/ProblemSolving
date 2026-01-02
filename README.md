@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3210-count-beautiful-substrings-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3210-count-beautiful-substrings-i) |
 ## Math
@@ -66,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
