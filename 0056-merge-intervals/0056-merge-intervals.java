@@ -1,28 +1,32 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        int intervalsSize = intervals.length;
-        Arrays.sort(intervals, new Comparator<int[]>(){
-            public int compare(int [] a, int [] b){
-                return a[0] - b[0];
-            }
-        });
-        ArrayList<ArrayList<Integer>> arr = new ArrayList<>();
-        for(int i = 0 ;i < intervalsSize; i+=1){
-            if(arr.isEmpty() || arr.get(arr.size()-1).get(1) < intervals[i][0]){
-                arr.add(new ArrayList<>(Arrays.asList(intervals[i][0], intervals[i][1])));
-            }
-            else{
-                arr.get(arr.size() -1 ).set(1, Math.max(arr.get(arr.size()-1).get(1), intervals[i][1]));
-            }
-        }
-        int rowSize = arr.size();
-        int colSize = arr.get(0).size();
-        int [][] result = new int[rowSize][colSize];
-        for(int i = 0; i < rowSize ; i+=1){
-            for(int j = 0; j < colSize ; j+=1){
-                result[i][j] = arr.get(i).get(j);
+        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        ArrayList<ArrayList<Integer>> res = new ArrayList<>();
+
+        for (int[] interval : intervals) {
+            int start = interval[0];
+            int end = interval[1];
+
+            if (res.isEmpty() || res.get(res.size() - 1).get(1) < start) {
+                ArrayList<Integer> ans = new ArrayList<>();
+                ans.add(start);
+                ans.add(end);
+                res.add(ans);
+            } else {
+                res.get(res.size() - 1).set(
+                    1,
+                    Math.max(end, res.get(res.size() - 1).get(1))
+                );
             }
         }
+
+        int[][] result = new int[res.size()][2];
+
+        for (int i = 0; i < res.size(); i++) {
+            result[i][0] = res.get(i).get(0);
+            result[i][1] = res.get(i).get(1);
+        }
+
         return result;
     }
 }
