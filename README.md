@@ -162,4 +162,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
