@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -167,6 +168,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0036-valid-sudoku](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
 ## Backtracking
 |  |
@@ -196,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0162-find-peak-element) |
