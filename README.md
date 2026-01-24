@@ -83,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1539-kth-missing-positive-number) |
 | [1580-shuffle-the-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1580-shuffle-the-array) |
 | [1975-maximum-matrix-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -199,4 +200,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
