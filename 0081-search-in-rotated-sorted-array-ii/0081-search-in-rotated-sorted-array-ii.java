@@ -1,12 +1,16 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        Arrays.sort(nums);
+
         int left = 0;
         int right = nums.length -1;
         while(left <= right){
             int mid = left + (right - left) / 2;
             if(nums[mid] == target){
                 return true;
+            }
+            if(nums[mid] == nums[left]){
+                left+=1;
+                continue;
             }
             if (nums[mid] >= nums[left]){
                 if(nums[left] <= target && nums[mid] >  target  ){
