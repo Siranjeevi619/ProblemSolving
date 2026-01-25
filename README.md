@@ -42,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0165-compare-version-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1021-remove-outermost-parentheses](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1021-remove-outermost-parentheses) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [3210-count-beautiful-substrings-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3210-count-beautiful-substrings-i) |
 | [3396-valid-word](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3396-valid-word) |
@@ -204,4 +205,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0162-find-peak-element](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1539-kth-missing-positive-number) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
