@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0044-wildcard-matching](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0165-compare-version-numbers) |
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -97,6 +98,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0165-compare-version-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
