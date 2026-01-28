@@ -72,6 +72,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2714-left-and-right-sum-differences) |
 | [3210-count-beautiful-substrings-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3210-count-beautiful-substrings-i) |
@@ -93,6 +94,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
