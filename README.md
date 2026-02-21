@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0036-valid-sudoku](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
@@ -90,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0162-find-peak-element) |
@@ -265,4 +267,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
