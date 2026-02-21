@@ -12,14 +12,8 @@ class Solution {
     }
 
     static boolean countBits(int i) {
-        String ins = "" + Integer.toBinaryString(i);
-        int oneCounter = 0;
-        for (char ch : ins.toCharArray()) {
-            if (ch == '1') {
-                oneCounter += 1;
-            }
-        }
-        return isPrime(oneCounter);
+       
+        return isPrime(Integer.bitCount(i));
     }
 
     public int countPrimeSetBits(int left, int right) {
