@@ -38,6 +38,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0013-roman-to-integer](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0069-sqrtx) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1390-four-divisors](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1390-four-divisors) |
 | [3210-count-beautiful-substrings-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3210-count-beautiful-substrings-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -160,6 +161,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
