@@ -86,6 +86,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0036-valid-sudoku](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
@@ -172,6 +173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
@@ -205,6 +207,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0036-valid-sudoku](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
 ## Backtracking
