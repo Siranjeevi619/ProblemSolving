@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0142-linked-list-cycle-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
@@ -54,6 +55,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0151-reverse-words-in-a-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
 | [0451-sort-characters-by-frequency](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0796-rotate-string) |
@@ -138,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0056-merge-intervals](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
