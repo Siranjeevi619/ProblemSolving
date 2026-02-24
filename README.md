@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0217-contains-duplicate](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -60,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0205-isomorphic-strings](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0796-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -165,6 +167,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
