@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0451-sort-characters-by-frequency](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -112,6 +113,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
@@ -164,6 +166,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
