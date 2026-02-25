@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0930-binary-subarrays-with-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -86,6 +87,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0238-product-of-array-except-self) |
+| [0930-binary-subarrays-with-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2714-left-and-right-sum-differences) |
@@ -116,6 +118,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
@@ -170,6 +173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0424-longest-repeating-character-replacement](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
