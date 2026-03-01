@@ -104,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -154,6 +155,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0141-linked-list-cycle) |
@@ -230,6 +232,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0044-wildcard-matching) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1903-largest-odd-number-in-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1903-largest-odd-number-in-string) |
