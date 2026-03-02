@@ -309,6 +309,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -345,4 +346,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
