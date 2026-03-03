@@ -125,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0238-product-of-array-except-self) |
@@ -271,6 +272,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0200-number-of-islands) |
 | [1975-maximum-matrix-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
 ## Backtracking
 |  |
@@ -289,6 +291,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -304,6 +307,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Search
 |  |
@@ -356,6 +360,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
