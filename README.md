@@ -51,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1248-count-number-of-nice-subarrays](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1390-four-divisors) |
 | [1903-largest-odd-number-in-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1903-largest-odd-number-in-string) |
+| [2396-strictly-palindromic-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2396-strictly-palindromic-number) |
 | [3210-count-beautiful-substrings-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3210-count-beautiful-substrings-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
@@ -172,6 +173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0876-middle-of-the-linked-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -376,4 +378,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0155-min-stack) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
