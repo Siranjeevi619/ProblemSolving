@@ -135,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
 | [0739-daily-temperatures](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -325,6 +326,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0162-find-peak-element](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1539-kth-missing-positive-number) |
 ## Stack
