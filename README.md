@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0242-valid-anagram) |
@@ -47,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0066-plus-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0202-happy-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1390-four-divisors) |
@@ -171,6 +173,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0151-reverse-words-in-a-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
