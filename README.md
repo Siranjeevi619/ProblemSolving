@@ -121,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0066-plus-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
@@ -340,6 +341,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
@@ -367,6 +369,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0739-daily-temperatures) |
 ## Union-Find
