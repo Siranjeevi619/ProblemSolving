@@ -292,6 +292,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
@@ -300,6 +301,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0200-number-of-islands) |
@@ -309,6 +311,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
@@ -317,6 +320,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
