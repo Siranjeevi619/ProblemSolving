@@ -296,6 +296,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -306,6 +307,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0110-balanced-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
@@ -315,6 +317,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -355,6 +358,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0796-rotate-string) |
 ## Bucket Sort
 |  |
@@ -398,4 +402,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2396-strictly-palindromic-number) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
