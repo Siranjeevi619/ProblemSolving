@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0013-roman-to-integer](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
@@ -64,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0013-roman-to-integer](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
@@ -119,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0036-valid-sudoku](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0066-plus-one) |
@@ -191,6 +194,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0217-contains-duplicate) |
