@@ -7,16 +7,16 @@ class MyHashSet {
     }
 
     public void add(int key) {
-        if(set.contains(key)){
-            return ;
+        if (set.contains(key)) {
+            return;
         }
         set.add(key);
     }
 
     public void remove(int key) {
-        if(!set.isEmpty() && set.contains(key)){
-            set.remove(Integer.valueOf(key));
-        }
+
+        set.remove(Integer.valueOf(key));
+
     }
 
     public boolean contains(int key) {
