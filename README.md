@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0424-longest-repeating-character-replacement](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0705-design-hashset) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -145,6 +146,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
@@ -408,6 +410,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0142-linked-list-cycle-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
@@ -438,6 +441,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0155-min-stack](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0705-design-hashset) |
 ## Brainteaser
 |  |
 | ------- |
@@ -446,6 +450,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0705-design-hashset) |
 ## Binary Search Tree
 |  |
 | ------- |
