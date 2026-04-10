@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0014-longest-common-prefix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
