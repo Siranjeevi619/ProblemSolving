@@ -89,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -195,6 +196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0680-valid-palindrome-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1768-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
