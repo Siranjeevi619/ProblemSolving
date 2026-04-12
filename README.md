@@ -51,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0013-roman-to-integer](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0202-happy-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -291,6 +292,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0044-wildcard-matching) |
+| [0070-climbing-stairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
@@ -306,6 +308,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 ## Matrix
 |  |
