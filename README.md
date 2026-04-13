@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0013-roman-to-integer](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0128-longest-consecutive-sequence) |
@@ -127,6 +128,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0054-spiral-matrix) |
