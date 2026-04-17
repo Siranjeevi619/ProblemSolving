@@ -158,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0706-design-hashmap) |
@@ -205,6 +206,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0287-find-the-duplicate-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0881-boats-to-save-people) |
@@ -224,6 +226,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0242-valid-anagram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0977-squares-of-a-sorted-array) |
@@ -235,6 +238,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1046-last-stone-weight) |
@@ -248,6 +252,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0424-longest-repeating-character-replacement](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0992-subarrays-with-k-different-integers) |
@@ -407,6 +412,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1539-kth-missing-positive-number) |
