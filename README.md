@@ -28,6 +28,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0205-isomorphic-strings](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
@@ -151,6 +152,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0200-number-of-islands](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
@@ -242,6 +244,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
