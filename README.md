@@ -58,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0070-climbing-stairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0202-happy-number) |
+| [0396-rotate-function](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0973-k-closest-points-to-origin](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
@@ -157,6 +158,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0219-contains-duplicate-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0396-rotate-function) |
 | [0503-next-greater-element-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0594-longest-harmonious-subsequence) |
@@ -323,6 +325,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0396-rotate-function) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Trie
