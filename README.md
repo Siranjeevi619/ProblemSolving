@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0202-happy-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1390-four-divisors) |
@@ -326,6 +327,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0788-rotated-digits) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Trie
