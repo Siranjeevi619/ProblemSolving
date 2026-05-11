@@ -197,6 +197,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2553-separate-the-digits-in-an-array) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2714-left-and-right-sum-differences) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -303,6 +304,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0735-asteroid-collision](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1929-concatenation-of-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2553-separate-the-digits-in-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
 |  |
