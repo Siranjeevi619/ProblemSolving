@@ -141,6 +141,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0048-rotate-image](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0074-search-a-2d-matrix) |
@@ -312,6 +313,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0011-container-with-most-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0881-boats-to-save-people) |
@@ -326,6 +328,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
