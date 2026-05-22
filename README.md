@@ -124,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0930-binary-subarrays-with-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2714-left-and-right-sum-differences) |
 | [3210-count-beautiful-substrings-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3210-count-beautiful-substrings-i) |
@@ -190,6 +191,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1248-count-number-of-nice-subarrays](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1390-four-divisors](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1390-four-divisors) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1480-running-sum-of-1d-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
@@ -275,6 +277,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1004-max-consecutive-ones-iii](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
