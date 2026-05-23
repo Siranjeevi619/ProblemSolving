@@ -197,6 +197,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1480-running-sum-of-1d-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1539-kth-missing-positive-number) |
 | [1580-shuffle-the-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1580-shuffle-the-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1975-maximum-matrix-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
