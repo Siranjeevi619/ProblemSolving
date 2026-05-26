@@ -104,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1768-merge-strings-alternately](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1903-largest-odd-number-in-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2833-furthest-point-from-origin) |
@@ -283,6 +284,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1248-count-number-of-nice-subarrays](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
