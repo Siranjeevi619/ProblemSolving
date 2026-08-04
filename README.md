@@ -51,6 +51,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2540-minimum-common-value](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2540-minimum-common-value) |
 | [3210-count-beautiful-substrings-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3210-count-beautiful-substrings-i) |
+| [3731-find-missing-elements](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2714-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3731-find-missing-elements) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
@@ -263,6 +265,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Siranjeevi619/ProblemSolving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Siranjeevi619/ProblemSolving/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3731-find-missing-elements](https://github.com/Siranjeevi619/ProblemSolving/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
